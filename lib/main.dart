@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/refresher.dart';
-import 'package:my_app/signin_page.dart';
 
 void main() {
   runApp(const MyApp());
