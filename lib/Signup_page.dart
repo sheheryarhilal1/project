@@ -86,7 +86,7 @@ class _SigninPageState extends State<SignUp> {
                 padding: const EdgeInsets.only(left: 14, bottom: 15),
                 child: Row(
                   children: [
-                    Text("Please enter your information\nand create account"),
+                    Text("Please enter your information \nand create account"),
                   ],
                 ),
               ),
